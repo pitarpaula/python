@@ -1,0 +1,4 @@
+iteratia 1: clasa filme + adaugare, stergere, modifica lista de filme
+iteratia 2: clasa clienti + adaugare, stergere, modifica lista de clienti + legatura dintre clienti si filme
+iteratia 3: cautare + rapoarte
+
